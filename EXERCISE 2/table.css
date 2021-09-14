@@ -1,0 +1,41 @@
+/**table, th, td{
+    border: 1px solid green;
+    padding: 5px;
+}
+table{
+    border-spacing: 15px;
+}*/
+
+/*table,th,td{
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+    text-align: left;
+}*/
+
+/*/table,th,td{
+    border: 1px solid palevioletred;
+    border-collapse: collapse;
+}
+th, td{
+    text-align: left;
+    padding: 15px;
+}*/
+
+table, th, td{
+    border: 1px solid paleturquoise;
+    border-collapse: collapse;
+    background-color: purple;
+}
+th, td{
+    text-align: left;
+    padding: 7px;
+}
+th{
+    background-color: seagreen;
+}
+tr :nth-child(odd){
+    background-color: blue;
+}

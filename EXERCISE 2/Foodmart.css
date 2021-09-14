@@ -1,0 +1,21 @@
+/* #mart-bar{
+
+} */
+.intro1, .play-control {
+    display: flex;
+    justify-content: space-between;
+}
+.play-control{
+    border-radius: 50%;
+    border: 2px solid green;
+    width: 25px;
+    height: 25px;
+    background: white;
+}
+<div class="play-control">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 17 17">
+                <g>
+                </g>
+                    <path d="M3 2.692v11.618l11.618-5.837-11.618-5.781zM4 4.308l8.382 4.17-8.382 4.211v-8.381z" fill="#000000" />
+                </svg>
+        </div>

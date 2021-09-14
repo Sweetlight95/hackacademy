@@ -1,0 +1,13 @@
+.container{
+   text-align: left;
+   display: block;
+}
+.leg{
+    list-style-type: none;
+}
+.love{
+    justify-content: space-between;
+}
+a{
+   text-decoration: none;
+}

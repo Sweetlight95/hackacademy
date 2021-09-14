@@ -1,0 +1,140 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+}
+#hack{
+    width: 200px;
+}
+a {
+    text-decoration: none;
+    padding-right: 15px;
+    color: rgb(140,112,82);
+}
+#curricullum {
+    font-size: 14px;
+}
+.about{
+    padding: 0  40px;
+}
+.section-title{
+    text-align: center;
+    font-size: 30px;
+}
+.section-body{
+    display: flex;
+    margin-top: 10px;
+}
+.sub-body{
+padding-right: 10px;
+}
+.icon {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid green;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h4{
+    text-align: center;
+
+}
+ .icon:hover {
+    background-color:green;
+}
+.icon:hover path{
+    fill: white;
+}
+h3{
+    text-transform: uppercase;
+    color: rgba(51, 134, 12, 0.726);
+    position: sticky;
+}
+p{
+    padding: 0px 50px;
+}
+.intro{
+    background-image: url('./laptop.jpg');
+    height: 27rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.intro1 h2{
+ color: white;
+display: flex;
+justify-content: space-between;
+padding: 0 70px;
+}
+.intro1 p{
+    margin-left: 2px;
+    text-align: left;
+    color: white;
+}
+.get-started{
+    color: white;
+    background-color: green;
+    border: none;
+    margin: auto;
+    height: 30px;
+    width: 10rem;
+}
+.spot{
+    text-align: center;
+   margin: 5rem 0rem;
+   font-size: 20px;
+}
+.apply{
+    width: 10rem;
+    background-color: green;
+    margin: auto;
+    color: white;
+    height: 30px;
+    border: none;
+}
+.stru {
+    display: flex;
+    margin: auto;
+    padding: 3rem 6rem 3rem 6rem;
+}
+#building{
+    width: 40rem;
+    height: 40rem;
+    margin-right: 20px;
+    
+}
+hr{
+    margin-top: 2rem;
+}
+.stru .tru{
+    padding: 3rem 2rem 3rem 2rem; 
+}
+.tru{
+    text-align: justify;
+}
+.footer{
+    background-color:rgb(43, 42, 42);
+    height: 20rem;
+    justify-content: center;
+    color: white;
+}
+.academylogo{
+    width: 4%;
+    height: 3rem;
+    margin-top: 3rem;
+}
+.footer-logo{
+    text-align: center;
+}
+.symbols{
+    text-align: center;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+

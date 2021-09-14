@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-image: url(./slide-2.jpg);
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-right: 10px; */
+}
+h1{
+    font-family: fantasy;
+    color: rgb(184, 78, 78);    
+}
+.lite{
+    text-decoration: none;
+    color: rgb(41, 3, 41);
+    font-size: large;
+    font-family: vibur, cursive;
+}

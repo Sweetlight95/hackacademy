@@ -1,0 +1,75 @@
+
+.navbar{
+display: flex;
+justify-content: space-between;
+padding: 5px 7px;
+background-color: rgba(34, 110, 87, 0.897);
+box-shadow: 4px 4px 15px 5px;
+position: fixed;
+top: 4px;
+width: 82rem;
+
+}
+a{
+    text-decoration: none;
+    padding-right: 15px;
+    color: rgba(25, 216, 82, 0.979);
+    font-size: 150%;
+    font-style: italic;
+}
+h2{
+    color: rgba(25, 216, 82, 0.979);
+    padding-left: 15px;
+}
+.about{
+    text-align: left;
+    font-size: 160%;
+    margin: 30px 50px;
+    padding: 80px 40px;
+}
+.more{
+    height: 3rem;
+    width: 15rem;
+    border-radius: 2rem;
+    border: none;
+    color: red;
+    background-color: rgba(107, 158, 55, 0.473);
+}
+.image{
+    position: relative;
+    bottom: -15px;
+}
+.git{
+    position: relative;
+    left: 10px;
+}
+.lom{
+    background-color: rgb(81, 131, 81);
+    height: 20rem;
+   text-align: center;
+   background-size: 100%;
+}
+h3{
+    font-size: 250%;
+    font-style: italic;
+    color: red;
+}
+.comment{
+    height: 8rem;
+    width: 20rem;
+    border-radius: 15px;
+} 
+.mael{
+    text-align: center;
+}
+.email{
+border: none;
+border-radius: 0.4rem;
+height: 1.5rem;
+}
+.submit{
+    border: none;
+border-radius: 0.4rem;
+height: 1.5rem;
+width: 5rem;
+}

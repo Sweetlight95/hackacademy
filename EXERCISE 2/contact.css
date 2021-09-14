@@ -1,0 +1,18 @@
+input{
+    border: none;
+    border-bottom: 1px solid rgb(8, 8, 8);
+    margin-bottom: 20px;
+    width: 700px;
+    outline: none;
+}
+.submit{
+    width: 10rem;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    color: rgb(151, 161, 156);
+    background-color: springgreen;
+   
+    cursor: pointer;
+    outline: none;
+}
